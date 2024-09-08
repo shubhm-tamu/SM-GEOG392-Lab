@@ -2,9 +2,14 @@
 Coursework for GEOG-392
 
 Name: Shubh Mamtora
+
 UIN: 430004705
+
 [Homework](./Homeworks)
+
 |Labs|
+|:--:|
+
 |[Lab1](Labs/Lab1/README.md)|
 |[Lab2](Labs/Lab2/README.md)|
 |[Lab3](Labs/Lab3/README.md)|
